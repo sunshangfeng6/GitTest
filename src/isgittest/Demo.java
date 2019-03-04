@@ -2,7 +2,7 @@ package isgittest;
 
 public class Demo {
     public static String gittest(){
-        String a = "ahhhhbC";
+        String a = "ahhhC";
         return a;
     }
 }
